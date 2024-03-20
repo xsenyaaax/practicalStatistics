@@ -23,6 +23,7 @@ Níže jsou tři úlohy včetně bodového ohodnocení. Plný počet bodů je za
 Úloha 2
 
 5b.: Sestavte kontingenční tabulku počtů trestných činů v jednotlivých kategoriích a NUTS 3 oblastí. Tuto tabulku interpretujte, navrhněte hypotézy o jejích vlastnostech a proveďte příslušný test. Interpretujte jeho výsledky.
+
 Úloha 3
 
 3x5b.: Na základě povahy zkoumaných dat navrhněte tři dvojice (H0H0​ a HAHA​) potenciálně zajímavých hypotéz vedoucích na tři různé statistické testy (jiné než v úloze 2):
