@@ -1,0 +1,3 @@
+This repository contains 3 semestral projects which were done during my course of BI-PRS (practical statistics) with 2 other classmates. Tasks were divided equally between us and each one of us worked on our parts
+
+Students will learn about the methods of applied statistics. They will learn how to work with different types of data, perform analyses, and appropriately choose a model that fits the data. Regression and correlation analysis, analysis of variance, and an introduction to nonparametric methods will be discussed. Students will become familiar with the statistical environment of the R language and learn to apply the methods to real-world data.
